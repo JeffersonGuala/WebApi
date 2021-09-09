@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\MiWebApi\ConectarDatos\bin\Debug\ConectarDatos.dll.config
+C:\Users\LENOVO\source\repos\MiWebApi\ConectarDatos\bin\Debug\ConectarDatos.dll
+C:\Users\LENOVO\source\repos\MiWebApi\ConectarDatos\bin\Debug\ConectarDatos.pdb
+C:\Users\LENOVO\source\repos\MiWebApi\ConectarDatos\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\source\repos\MiWebApi\ConectarDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\source\repos\MiWebApi\ConectarDatos\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\source\repos\MiWebApi\ConectarDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\source\repos\MiWebApi\ConectarDatos\obj\Debug\ConectarDatos.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MiWebApi\ConectarDatos\obj\Debug\ConectarDatos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MiWebApi\ConectarDatos\obj\Debug\ConectarDatos.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\MiWebApi\ConectarDatos\obj\Debug\ConectarDatos.dll
+C:\Users\LENOVO\source\repos\MiWebApi\ConectarDatos\obj\Debug\ConectarDatos.pdb
